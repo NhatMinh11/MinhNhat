@@ -19,7 +19,7 @@ public class BaiSlide40 {
             break ;
             case 5 : System.out.println("Thu Sau");
             break ;
-            case 7 : System.out.println("Thu Bay");
+            case 6 : System.out.println("Thu Bay");
             break ;
             default : System.out.println("So Ngay Trong Tuan Sai");
         }
