@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class TongN {
+public class BaiSlide30 {
     public static void main(String[] args){
         int n,sodu,S = 0;
         Scanner scanner = new Scanner(System.in);

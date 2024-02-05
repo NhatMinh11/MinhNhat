@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class TimMin {
+public class BaiSlide35 {
     public static void main(String[] args){
 int so1 , so2;
 Scanner scanner = new Scanner(System.in);
