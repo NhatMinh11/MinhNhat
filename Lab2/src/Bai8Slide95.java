@@ -8,14 +8,14 @@ public class Bai8Slide95 {
         n = scanner.nextInt();
      int A[] = new int[n];
      for(int i = 0 ; i < A.length ; i++){
-        System.out.println("Nhap gia tri cac phan tu thu " +i);
+        System.out.println("Nhap gia tri  phan tu thu " +i);
         A[i] = scanner.nextInt();
      }
      int tong  = 0 ;
      for(int i = 0 ; i < A.length ; i++){
         tong += A[i];
      }
-     int tbc = tong / n;
+     float tbc = tong / n ;
      System.out.println("Kq : " +tbc);
     }
  }
