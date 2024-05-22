@@ -1,5 +1,3 @@
-package BaiTap;
-
 import java.util.ArrayList;
 
 public class Color{

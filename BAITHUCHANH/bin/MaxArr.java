@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class MaxArr {
     public static void main(String[] args){
-        ArrayList<Integer> arrList = new ArrayList<Integer>();
+        ArrayList<Integer> arrList = new ArrayList<>();
         Scanner sc = new Scanner(System.in);
         int number;
         System.out.println("Nhap So Phan Tu Cua Mang : ");
